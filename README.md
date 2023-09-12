@@ -14,7 +14,7 @@
   💼 <strong>Ferramentas</strong>: Programo principalmente no GameMaker Studio 2 e faço minhas artes pelo Krita.
 </p>
 
-<img widht="130em" src="https://github-readme-stats.vercel.app/api?username=paulok3tchup&show_icons=true" align = "center"/>
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=paulok3tchup&hide=html&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="left">
   💌 Caso queira entrar em contato: ⤵️
