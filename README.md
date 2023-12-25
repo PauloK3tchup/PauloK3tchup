@@ -36,3 +36,11 @@
   <a href="https://paulok3tchup.itch.io/" alt="Itch.io">
   <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white"/></a>
 </p>
+
+<br>
+<hr>
+
+<h4>Meu Jogo!</h4>
+<a href="https://paulok3tchup.itch.io/bird-in-trouble" alt="BirdInTrouble">
+<img src="https://img.itch.zone/aW1nLzEzMzk0NzY2LnBuZw==/original/2tgs%2Bc.png"/></a>
+<p>^ ^ ^ ^ ^ Clique no pássaro ^ ^ ^ ^ ^</p>
