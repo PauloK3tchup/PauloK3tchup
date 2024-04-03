@@ -1,4 +1,4 @@
-<img src="Escaravelho.png" min-width="420px" max-width="420px" width="420px" align="right">
+<img src="THELICH.png" min-width="420px" max-width="420px" width="420px" align="right">
 
 <p align="left"> 
   Meu nome é Paulo César e eu sou um <strong>programador inciante com interesse em gamedev</strong> e também <strong>aspirante a artista</strong>.<br>
