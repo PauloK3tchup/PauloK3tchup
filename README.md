@@ -7,7 +7,7 @@
 </p>
 
 <p align="left">
-  🦄 <strong>Linguagens</strong>: Minhas favoritas são HTML, CSS e agora a GML (que praticamente é javascript)
+  🦄 <strong>Linguagens</strong>: Minhas favoritas são HTML, CSS e agora a GML (que é parecida com javascript, python e outras nesse sentido).
 </p>
 
 <p align="left">
