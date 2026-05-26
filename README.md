@@ -1,9 +1,7 @@
 <img src="THELICH.png" min-width="420px" max-width="420px" width="420px" align="right">
 
-<p align="left"> 
-  Meu nome é Paulo César e eu sou um <strong>programador inciante com interesse em gamedev</strong> e também <strong>artista</strong>.<br>
-  Acho divertido programar jogos pois isso mistura a programação com meu passatempo favorito: desenhar. Estou desenvolvendo um jogo simples chamado <a href="https://paulok3tchup.itch.io/bird-in-trouble" alt="Bird In Trouble">Bird In Trouble</a> e tenho vários outros projetos relativamente mais complexos em planejamento.
-
+<p align="left">
+Meu nome é Paulo César, eu sou formado no curso técnico de Informática para Internet no IFC e estou atualmente cursando Bacharelado em Sistemas de Informação. Meu maior interesse é na área de gamedev e também sou aspirante a artista.<br> Tenho vários projetos diferentes de jogos no meu <a href="https://paulok3tchup.itch.io" alt="itchio">Itch.io</a> e procuro sempre melhorá-los e mantê-los eles atualizados.
 </p>
 
 <p align="left">
@@ -29,12 +27,15 @@
 
   <a href="https://paulok3tchup.itch.io/" alt="Itch.io">
   <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white"/></a>
+
+  <a href="https://www.youtube.com/@paulin8646" alt="YouTube">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 </p>
 
 <br>
 <hr>
 
-<h4>Meu Jogo!</h4>
+<h4>Meu jogo principal com uma demo lançada:</h4>
 <a href="https://paulok3tchup.itch.io/bird-in-trouble" alt="BirdInTrouble">
 <img src="https://img.itch.zone/aW1nLzEzMzk0NzY2LnBuZw==/original/2tgs%2Bc.png"/></a>
 <p>^ ^ ^ ^ ^ Clique no pássaro ^ ^ ^ ^ ^</p>
