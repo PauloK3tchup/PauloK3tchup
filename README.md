@@ -9,7 +9,7 @@ Meu nome é Paulo César, eu sou formado no curso técnico de Informática para 
 </p>
 
 <p align="left">
-  <strong>Ferramentas</strong>: Programo principalmente no GameMaker e faço minhas artes pelo Krita.
+  <strong>Ferramentas</strong>: Programo principalmente no GameMaker e faço minhas artes pelo Krita. Também tenho bastante afinidade com o framework VueJs.
 </p>
 
 [![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=PauloK3tchup&layout=compact&locale=pt-br)](https://github.com/Pranesh-2005/github-readme-stats)
