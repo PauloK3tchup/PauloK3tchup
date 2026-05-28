@@ -12,7 +12,7 @@ Meu nome é Paulo César, eu sou formado no curso técnico de Informática para 
   💼 <strong>Ferramentas</strong>: Programo principalmente no GameMaker Studio 2 e faço minhas artes pelo Krita.
 </p>
 
-[![PauloK3tchup's GitHub stats](https://github-readme-stats.vercel.app/api?username=PauloK3tchup&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![PauloK3tchup's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulok3tchup)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="left">
   💌 Caso queira entrar em contato: ⤵️
