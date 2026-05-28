@@ -5,17 +5,17 @@ Meu nome é Paulo César, eu sou formado no curso técnico de Informática para 
 </p>
 
 <p align="left">
-  🦄 <strong>Linguagens</strong>: Minhas favoritas são HTML, CSS e agora a GML (que é parecida com javascript, python e outras nesse sentido).
+  <strong>Linguagens</strong>: Minhas favoritas são HTML, CSS e GML (que é a linguagem do GameMaker).
 </p>
 
 <p align="left">
-  💼 <strong>Ferramentas</strong>: Programo principalmente no GameMaker Studio 2 e faço minhas artes pelo Krita.
+  <strong>Ferramentas</strong>: Programo principalmente no GameMaker e faço minhas artes pelo Krita.
 </p>
 
 [![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=PauloK3tchup&layout=compact&locale=pt-br)](https://github.com/Pranesh-2005/github-readme-stats)
 
 
-  💌 Caso queira entrar em contato: ⤵️
+  Caso queira entrar em contato:
 </p>
 
 <p align="left">
