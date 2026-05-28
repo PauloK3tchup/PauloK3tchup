@@ -12,6 +12,8 @@ Meu nome é Paulo César, eu sou formado no curso técnico de Informática para 
   💼 <strong>Ferramentas</strong>: Programo principalmente no GameMaker Studio 2 e faço minhas artes pelo Krita.
 </p>
 
+[![PauloK3tchup's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=PauloK3tchup)](https://github.com/pranesh-2005/github-readme-stats-fast)
+
 <p align="left">
   💌 Caso queira entrar em contato: ⤵️
 </p>
