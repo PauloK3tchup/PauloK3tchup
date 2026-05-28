@@ -12,7 +12,7 @@ Meu nome é Paulo César, eu sou formado no curso técnico de Informática para 
   💼 <strong>Ferramentas</strong>: Programo principalmente no GameMaker Studio 2 e faço minhas artes pelo Krita.
 </p>
 
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=paulok3tchup&hide=html&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+[![PauloK3tchup's GitHub stats](https://github-readme-stats.vercel.app/api?username=PauloK3tchup&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="left">
   💌 Caso queira entrar em contato: ⤵️
@@ -31,11 +31,3 @@ Meu nome é Paulo César, eu sou formado no curso técnico de Informática para 
   <a href="https://www.youtube.com/@paulin8646" alt="YouTube">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 </p>
-
-<br>
-<hr>
-
-<h4>Meu jogo principal com uma demo lançada:</h4>
-<a href="https://paulok3tchup.itch.io/bird-in-trouble" alt="BirdInTrouble">
-<img src="https://img.itch.zone/aW1nLzEzMzk0NzY2LnBuZw==/original/2tgs%2Bc.png"/></a>
-<p>^ ^ ^ ^ ^ Clique no pássaro ^ ^ ^ ^ ^</p>
